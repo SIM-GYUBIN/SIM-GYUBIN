@@ -1,4 +1,4 @@
-### Hi there 👋
+![happy-cat-cat](https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/26074da9-260f-43f1-ba1d-6f8e52faa877)
 
 <!--
 **SIM-GYUBIN/SIM-GYUBIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
