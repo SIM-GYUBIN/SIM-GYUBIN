@@ -1,4 +1,5 @@
-![happy-cat-cat](https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/26074da9-260f-43f1-ba1d-6f8e52faa877)
+![goat](https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/bd65b73b-e067-408b-8a03-e69f6fb733cf)
+![huh](https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/99473e91-9b97-4978-9796-3cb2f1647364)
 
 <!--
 **SIM-GYUBIN/SIM-GYUBIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
