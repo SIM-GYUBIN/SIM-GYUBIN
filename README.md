@@ -2,6 +2,9 @@
 
 ![i-gotta-go-the-pika-is-quick-and-elusive](https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/46dfc44f-df30-4f3e-af13-1bbf3eeb2209)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/SIM-GYUBIN" width="500" height="520"/>
+</a>
 
 <!-- Party
 ![Empty](https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/d1b6790a-3099-4e20-84e0-ee50c7f2d175)![Empty](https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/3cf3b937-1770-4fae-a7e9-c05970a81d65)![pepedj](https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/6c1f69d2-60b3-422a-be61-731f450c7faa)
