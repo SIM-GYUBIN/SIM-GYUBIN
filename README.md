@@ -1,9 +1,11 @@
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSIM-GYUBIN&count_bg=%23767875&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-![i-gotta-go-the-pika-is-quick-and-elusive](https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/46dfc44f-df30-4f3e-af13-1bbf3eeb2209)
+
+<img src="https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/46dfc44f-df30-4f3e-af13-1bbf3eeb2209" width="500"/>
+
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/SIM-GYUBIN" width="500" height="520"/>
+  <img src="https://render.gitanimals.org/lines/SIM-GYUBIN?pet-id=603804797485148555" width="200" height="300"/>
 </a>
 
 <!-- Party
