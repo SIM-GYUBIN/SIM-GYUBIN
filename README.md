@@ -8,12 +8,14 @@
   <img src="https://render.gitanimals.org/lines/SIM-GYUBIN?pet-id=603804797485148555" width="200" height="300"/>
 </a>
 
+
+<!--
 <details>
   <summary></summary>
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skb0516)](https://solved.ac/skb0516)
 </details>
-
+-->
 
 <!-- Party
 ![Empty](https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/d1b6790a-3099-4e20-84e0-ee50c7f2d175)![Empty](https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/3cf3b937-1770-4fae-a7e9-c05970a81d65)![pepedj](https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/6c1f69d2-60b3-422a-be61-731f450c7faa)
