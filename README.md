@@ -3,7 +3,7 @@
 
 <!-- 피카 토끼 <img src="https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/46dfc44f-df30-4f3e-af13-1bbf3eeb2209" width="500"/> -->
 
-<img src="https://github.com/user-attachments/assets/9b57774a-ce2b-4896-b1a7-80705e80ace7" width="500"/>
+<img src="https://github.com/user-attachments/assets/f3a93769-7fd7-4d9c-a8ec-23aa288e94d4" width="600"/>
 
 <!-- 깃애니멀
 <a href="https://github.com/devxb/gitanimals">
