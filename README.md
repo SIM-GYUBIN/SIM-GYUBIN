@@ -1,7 +1,10 @@
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSIM-GYUBIN&count_bg=%23767875&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-
+<!-- 삐카
  <img src="https://github.com/SIM-GYUBIN/SIM-GYUBIN/assets/89975936/46dfc44f-df30-4f3e-af13-1bbf3eeb2209" width="500"/> 
+ -->
+
+<img src="https://github.com/user-attachments/assets/50940118-7014-4e7c-aacb-471ee8530d5b" width="500"/> 
 
 <!-- 칠보이 <img src="https://github.com/user-attachments/assets/f3a93769-7fd7-4d9c-a8ec-23aa288e94d4" width="600"/> -->
 
